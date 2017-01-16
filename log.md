@@ -11,3 +11,15 @@
 **Next Day's Goal(s)** Finish building BroadcastReceiver and begin implementing JSOUP library
 
 **Link to work:** [Updated App](https://github.com/jgarcia162/Updated)
+
+### Day 1: January 15, 2017
+
+**Today's Goal:**  Finish building BroadcastReceiver and begin implementing JSOUP library
+
+**Thoughts:** 
+
+**Today's Progress:**
+
+**Next Day's Goal(s)**
+
+**Link to work:** [Updated App](https://github.com/jgarcia162/Updated)
