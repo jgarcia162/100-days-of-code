@@ -16,10 +16,8 @@
 
 **Today's Goal:**  Finish building BroadcastReceiver and begin implementing JSOUP library
 
-**Thoughts:** 
+**Today's Progress:** Finished BroadcastReceiver. Found broken logic for checking if a page is updated or not. 
 
-**Today's Progress:**
-
-**Next Day's Goal(s)**
+**Next Day's Goal(s)** Fix page updater logic. Implement JSOUP library
 
 **Link to work:** [Updated App](https://github.com/jgarcia162/Updated)
