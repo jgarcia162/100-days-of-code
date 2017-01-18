@@ -21,3 +21,13 @@
 **Next Day's Goal(s)** Fix page updater logic. Implement JSOUP library
 
 **Link to work:** [Updated App](https://github.com/jgarcia162/Updated)
+
+### Day 2: January 17, 2017
+
+**Today's Goal:**  Fix page updater logic. Implement JSOUP library
+
+**Today's Progress:** 
+
+**Next Day's Goal(s)** 
+
+**Link to work:** [Updated App](https://github.com/jgarcia162/Updated)
