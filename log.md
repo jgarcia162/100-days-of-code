@@ -28,6 +28,6 @@
 
 **Today's Progress:** Error fixed. Found some structural issues that need to be addressed. Adapter's data set is being updated on detected update but current method is prone to memory leakage. Need to find an alternate way of updating UI. 
 
-**Next Day's Goal(s)** Find another way to update UI from NotificationService
+**Next Day's Goal(s)** Find another way to update UI from NotificationService and rearrange UpdateBroadcastReceiver.UpdateCallback
 
 **Link to work:** [Updated App](https://github.com/jgarcia162/Updated/commit/c05d01550c2b7de5637a67281f7d0380006167a6)
