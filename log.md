@@ -38,7 +38,7 @@
 
 **Today's Progress:** I'm now using a Handler to access the UI thread from NotificationService. Prior use of a reference to the main activity was a memory leak waiting to happen. Restructured UpdatedCallback implementation. 
 
-**Next Day's Goal(s)** Create cards and implement a RecyclerView in a staggered layout. Overall revamping of UI. 
+**Next Day's Goal(s)** Create cards and implement a RecyclerView in a staggered layout. Overall revamping of UI. Look into JobScheduler to replace TimerTask. 
 
 **Link to work:** [Switched to a Handler](https://github.com/jgarcia162/Updated/commit/e5eca6b1c821e4e6564c1eaf8a808058e93f7745)
                   [Restructured Callback](https://github.com/jgarcia162/Updated/commit/30d552814447d9125e961bbfb9e26c3630917172)
