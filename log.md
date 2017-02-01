@@ -31,3 +31,13 @@
 **Next Day's Goal(s)** Find another way to update UI from NotificationService and rearrange UpdateBroadcastReceiver.UpdateCallback
 
 **Link to work:** [Updated App](https://github.com/jgarcia162/Updated/commit/c05d01550c2b7de5637a67281f7d0380006167a6)
+
+### Day 3: February 1, 2017
+
+**Today's Goal:**  Update UI from NotificationService without holding reference to activity and restructure UpdateCallback.
+
+**Today's Progress:** I'm now using a Handler to access the UI thread from NotificationService. Prior use of a reference to the main activity was a memory leak waiting to happen. No longer implementing UpdateCallback. 
+
+**Next Day's Goal(s)** Create cards and implement a RecyclerView in a staggered layout. Overall revamping of UI. 
+
+**Link to work:** [Updated App](https://github.com/jgarcia162/Updated/commit/e5eca6b1c821e4e6564c1eaf8a808058e93f7745)
