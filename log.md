@@ -40,15 +40,14 @@
 
 **Next Day's Goal(s)** Create cards and implement a RecyclerView in a staggered layout. Overall revamping of UI. Look into JobScheduler to replace TimerTask. 
 
-**Link to work:** [Switched to a Handler](https://github.com/jgarcia162/Updated/commit/e5eca6b1c821e4e6564c1eaf8a808058e93f7745)
-                  [Restructured Callback](https://github.com/jgarcia162/Updated/commit/30d552814447d9125e961bbfb9e26c3630917172)
+**Link to work:** [Switched to a Handler](https://github.com/jgarcia162/Updated/commit/e5eca6b1c821e4e6564c1eaf8a808058e93f7745)<br>[Restructured Callback](https://github.com/jgarcia162/Updated/commit/30d552814447d9125e961bbfb9e26c3630917172)
 
 ### Day 4: February 2, 2017
 
 **Today's Goal:**  Create cards and implement a RecyclerView in a staggered layout. Overall revamping of UI. Look into JobScheduler to replace TimerTask. 
 
-**Today's Progress:** Implemented CardViews, StaggeredGridLayoutManager for RecyclerView. Found a way to grab favicon from webpage and use as display image. Webview in CardView proved to not be aesthetically pleasing. Learned about GridItemDecorations, a way to customize the way items are laid out in the RecyclerView by adding edge shadows and spacing between items.  
+**Today's Progress:** Implemented CardViews, StaggeredGridLayoutManager for RecyclerView. Found a way to grab favicon from webpage and use as display image. Webview in CardView proved to not be aesthetically pleasing. Learned about GridItemDecorations, a way to customize the way items are laid out in the RecyclerView by adding edge shadows and spacing between items. Found a bug where my MainActivity was being recreated upon clicking a notification. Fixed this by adding `launchMode:singleInstance` to the activity in the manifest. Not sure if this is the best approach but it works! 
 
 **Next Day's Goal(s)** Improve UI and work on Page Details Fragment, maybe implement JobScheduler
 
-**Link to work:** [Updated UI with Cardviews in a StaggeredGridLayout](https://github.com/jgarcia162/Updated/commit/cf9eaa49f3290c73f1bba0bbd77b91857363d70f)
+**Link to work:** [Updated UI with Cardviews in a StaggeredGridLayout](https://github.com/jgarcia162/Updated/commit/cf9eaa49f3290c73f1bba0bbd77b91857363d70f)<br>[Fixed multiple activity bug](https://github.com/jgarcia162/Updated/commit/679c0a55d4b1bfdfd756818f3c0d6c18aed0031f)
