@@ -51,3 +51,13 @@
 **Next Day's Goal(s)** Improve UI and work on Page Details Fragment, maybe implement JobScheduler
 
 **Link to work:** [Updated UI with Cardviews in a StaggeredGridLayout](https://github.com/jgarcia162/Updated/commit/cf9eaa49f3290c73f1bba0bbd77b91857363d70f)<br>[Fixed multiple activity bug](https://github.com/jgarcia162/Updated/commit/679c0a55d4b1bfdfd756818f3c0d6c18aed0031f)
+
+### Day 5: February 5, 2017
+
+**Today's Goal:**  Improve UI and work on Page Details Fragment, maybe implement JobScheduler
+
+**Today's Progress:** Didn't touch UI. Spent a lot of time trying to implement OkHttp3 but decided to stick with AsyncTask. Started work on DetailsFragment. May need to consider some restructuring for smooth navigation between MainActivity, DetailsFragment, and UserSettings.
+
+**Next Day's Goal(s)** Continue work on DetailsFragment and consider navigation flow.
+
+**Link to work:** [Began Implementing DetailsFragment](https://github.com/jgarcia162/Updated/commit/c00b67c7067fe5b3efff0966dde093bd337d2664)
