@@ -61,3 +61,13 @@
 **Next Day's Goal(s)** Continue work on DetailsFragment and consider navigation flow.
 
 **Link to work:** [Began Implementing DetailsFragment](https://github.com/jgarcia162/Updated/commit/c00b67c7067fe5b3efff0966dde093bd337d2664)
+
+### Day 6: February 6, 2017
+
+**Today's Goal:**  Continue work on DetailsFragment and consider navigation flow
+
+**Today's Progress:** Added a second activity to load PageDetailsFragment. Notification string displaying multiple page titles(bug). Began working on SharedPreferences persistence.
+
+**Next Day's Goal(s)** Fix notification bug and implement settings fragment and SharedPreferences for persistence.
+
+**Link to work:** [Implemented DetailsFragment](https://github.com/jgarcia162/Updated/commit/ddeb15fba69b3749b471bc514e4a6aee56d564ac)
