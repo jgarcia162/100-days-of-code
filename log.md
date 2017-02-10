@@ -71,3 +71,13 @@
 **Next Day's Goal(s)** Fix notification bug and implement settings fragment and SharedPreferences for persistence.
 
 **Link to work:** [Implemented DetailsFragment](https://github.com/jgarcia162/Updated/commit/ddeb15fba69b3749b471bc514e4a6aee56d564ac)
+
+### Day 7: February 9, 2017
+
+**Today's Goal:**  Fix notification bug and implement settings fragment and SharedPreferences for persistence.
+
+**Today's Progress:** Notification bug resolved. Implemented SharedPreferences persistence for default notes, update frequency, and favicon. Created a constants class to hold default values. 
+
+**Next Day's Goal(s)** Create layout for PreferencesFragment and implement menu buttons for preference navigation. Add default photo for null favicons. Add toggle button to PreferencesFragment, make URL editable in PageDetailsFragment.
+
+**Link to work:** [Added PreferencesFragment and some data persistence through SharedPreferences](https://github.com/jgarcia162/Updated/commit/beb47554ee88c90084e3a08ab0f438ccaf1ab3ad)
