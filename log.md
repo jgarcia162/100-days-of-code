@@ -88,7 +88,7 @@
 
 **Today's Progress:** Created menu buttons, added default photo for empty favicons. I used a base activity to be able to inclue options menu in every activity without rewriting options menu logic. Using a second activity to house all the menu screens to avoid restructuring main activity as a fragment. 
 
-** Today's insight:** Proper planning and structuring beforehand proves to be extremely important. Started my app with one activity then ran into issues that could have been avoided if initial activity was a fragment instead. 
+**Today's Insight:** Proper planning and structuring beforehand proves to be extremely important. Started my app with one activity then ran into issues that could have been avoided if initial activity was a fragment instead. 
 
 **Next Day's Goal(s)** Fix BaseActivity recreating bug. Add layout for SettingsFragment, and ContactFragment, begin implementing of SQL database.
 
