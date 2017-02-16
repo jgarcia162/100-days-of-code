@@ -81,3 +81,15 @@
 **Next Day's Goal(s)** Create layout for PreferencesFragment and implement menu buttons for preference navigation. Add default photo for null favicons. Add toggle button to PreferencesFragment, make URL editable in PageDetailsFragment.
 
 **Link to work:** [Added PreferencesFragment and some data persistence through SharedPreferences](https://github.com/jgarcia162/Updated/commit/beb47554ee88c90084e3a08ab0f438ccaf1ab3ad)
+
+### Day 8: February 16, 2017
+
+**Today's Goal:**  Create layout for PreferencesFragment and implement menu buttons for preference navigation. Add default photo for null favicons. Add toggle button to PreferencesFragment, make URL editable in PageDetailsFragment.
+
+**Today's Progress:** Created menu buttons, added default photo for empty favicons. I used a base activity to be able to inclue options menu in every activity without rewriting options menu logic. Using a second activity to house all the menu screens to avoid restructuring main activity as a fragment. 
+
+** Today's insight:** Proper planning and structuring beforehand proves to be extremely important. Started my app with one activity then ran into issues that could have been avoided if initial activity was a fragment instead. 
+
+**Next Day's Goal(s)** Fix BaseActivity recreating bug. Add layout for SettingsFragment, and ContactFragment, begin implementing of SQL database.
+
+**Link to work:** [Implemented Menu Options, BaseActivity, and Default Icons](https://github.com/jgarcia162/Updated/commit/28fbd56e7da2c9860d6997b0f14342e3426b1146)
