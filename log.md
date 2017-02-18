@@ -93,3 +93,13 @@
 **Next Day's Goal(s)** Fix BaseActivity recreating bug. Add layout for SettingsFragment, and ContactFragment, begin implementing of SQL database.
 
 **Link to work:** [Implemented Menu Options, BaseActivity, and Default Icons](https://github.com/jgarcia162/Updated/commit/28fbd56e7da2c9860d6997b0f14342e3426b1146)
+
+### Day 9: February 18, 2017
+
+**Today's Goal:**  Fix BaseActivity recreating bug. Add layout for SettingsFragment, and ContactFragment, begin implementing of SQL database.
+
+**Today's Progress:** Got rid of BaseActivity, fixed recreation bug. Working on layouts.  
+
+**Next Day's Goal(s)** Finish SQL database
+
+**Link to work:** [Fixed Activity onCreate bug](https://github.com/jgarcia162/Updated/commit/d1497e55a325503c0df834d5e9deca49e38ce1dd)
