@@ -98,8 +98,10 @@
 
 **Today's Goal:**  Fix BaseActivity recreating bug. Add layout for SettingsFragment, and ContactFragment, begin implementing of SQL database.
 
-**Today's Progress:** Got rid of BaseActivity, fixed recreation bug. Working on layouts.  
+**Today's Progress:** Got rid of BaseActivity, fixed recreation bug. Working on layouts. 
+**Update:** Was supposed to work on layout rest of the day but got hung up on more unforeseen bugs (like this never happens). Added a verification for valid URLs, ran into favicon bug that duplicates favicon despite page url, did not get to layouts as intended.
 
-**Next Day's Goal(s)** Finish SQL database
+**Next Day's Goal(s)** Fix favicon bug, work on layouts, begin SQL database
 
 **Link to work:** [Fixed Activity onCreate bug](https://github.com/jgarcia162/Updated/commit/d1497e55a325503c0df834d5e9deca49e38ce1dd)
+[Added URL verification](https://github.com/jgarcia162/Updated/commit/0b23034c24fe4e1bbfeaa4ae6c4de1c4df95334d)
