@@ -103,5 +103,5 @@
 
 **Next Day's Goal(s)** Fix favicon bug, work on layouts, begin SQL database
 
-**Link to work:** [Fixed Activity onCreate bug](https://github.com/jgarcia162/Updated/commit/d1497e55a325503c0df834d5e9deca49e38ce1dd)
+**Link to work:** [Fixed Activity onCreate bug](https://github.com/jgarcia162/Updated/commit/d1497e55a325503c0df834d5e9deca49e38ce1dd) <br>
 [Added URL verification](https://github.com/jgarcia162/Updated/commit/0b23034c24fe4e1bbfeaa4ae6c4de1c4df95334d)
