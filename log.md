@@ -105,3 +105,13 @@
 
 **Link to work:** [Fixed Activity onCreate bug](https://github.com/jgarcia162/Updated/commit/d1497e55a325503c0df834d5e9deca49e38ce1dd) <br>
 [Added URL verification](https://github.com/jgarcia162/Updated/commit/0b23034c24fe4e1bbfeaa4ae6c4de1c4df95334d)
+
+### Day 10: February 20, 2017
+
+**Today's Goal:**  Fix favicon bug, work on layouts, begin SQL database
+
+**Today's Progress:** Favicon bug gone, edited settings layout and page details layouts, changed default logo, begun implementing delete button. Implemented a CustomTabIntent for in-app browsing
+
+**Next Day's Goal(s)** Begin SQL database, finish delete button implementation, finish settings layout
+
+**Link to work:** [Favicon bug gone, new logo, customtabintent, edited page details](https://github.com/jgarcia162/Updated/commit/bb2d13fefb9eefdac05be1c5023fd5467869dd2a)
