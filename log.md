@@ -115,3 +115,13 @@
 **Next Day's Goal(s)** Begin SQL database, finish delete button implementation, finish settings layout
 
 **Link to work:** [Favicon bug gone, new logo, customtabintent, edited page details](https://github.com/jgarcia162/Updated/commit/bb2d13fefb9eefdac05be1c5023fd5467869dd2a)
+
+### Day 11: February 22, 2017
+
+**Today's Goal:**  Begin SQL database, finish delete button implementation, finish settings layout
+
+**Today's Progress:** Almost done with setting layout. Still need to implement delete function and db. Found that nasty favicon bug again. Progress is coming in slowly. 
+
+**Next Day's Goal(s)** Finish Setting layout, implement long-click for deleting a page.
+
+**Link to work:** [Edited SettingsFragment layout](https://github.com/jgarcia162/Updated/commit/b7eedc2427f8b8f8fb5edee8a9bfd982bad1cecc)
