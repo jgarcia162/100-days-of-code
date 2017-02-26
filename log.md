@@ -120,8 +120,18 @@
 
 **Today's Goal:**  Begin SQL database, finish delete button implementation, finish settings layout
 
-**Today's Progress:** Almost done with setting layout. Still need to implement delete function and db. Found that nasty favicon bug again. Progress is coming in slowly. 
+**Today's Progress:** Almost done with setting layout. Still need to implement delete function and db. Found that nasty favicon bug again. 
 
 **Next Day's Goal(s)** Finish Setting layout, implement long-click for deleting a page.
 
 **Link to work:** [Edited SettingsFragment layout](https://github.com/jgarcia162/Updated/commit/b7eedc2427f8b8f8fb5edee8a9bfd982bad1cecc)
+
+### Day 12: February 24, 2017
+
+**Today's Goal:**  Finish Setting layout, implement long-click for deleting a page.
+
+**Today's Progress:** Redesigned setting page layout. Added social media and email buttons. Completed SettingsFragment, all settings now saved to SharedPreferences. Implementing delete page button. RecyclerView now has custom slide in from bottom animation.
+
+**Next Day's Goal(s)** Implement delete page button. Add email intent and begin working on social media integration.
+
+**Link to work:** [SettingsFragment complete](https://github.com/jgarcia162/Updated/commit/2093566f585aa91b5f54d2b1e285c7541aecaddb)
