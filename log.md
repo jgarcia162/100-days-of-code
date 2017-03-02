@@ -134,4 +134,16 @@
 
 **Next Day's Goal(s)** Implement delete page button. Add email intent and begin working on social media integration.
 
-**Link to work:** [SettingsFragment complete](https://github.com/jgarcia162/Updated/commit/2093566f585aa91b5f54d2b1e285c7541aecaddb)
+**Link to work:** [SettingsFragment layout complete](https://github.com/jgarcia162/Updated/commit/2093566f585aa91b5f54d2b1e285c7541aecaddb)
+
+### Day 13: March 1, 2017 
+
+**Today's Goal:**  Implement delete page button. Add email intent and begin working on social media integration.
+
+**Today's Progress** Implemented Realm database with a RealmDatabaseHelper wrapper. Implemented delete button and reset defaults button with alert dialog.  
+
+**Thoughts** This last session actually spread over a couple days. I didn't want to count this as a day until the work was completed. This was a big lesson in the importance of prioritizing and realized it is probably a good idea to build your database early on. After this implementation I noticed many issues which I had before could have been completely avoided had the db been built first. Realm was not difficult to learn and it certainly proved more flexible than a traditional SQL db. 
+
+**Next Day's Goal(s)** Work on contacts section of Settings Fragment.   
+
+**Link to work:** [Realm database implemented](https://github.com/jgarcia162/Updated/commit/f417e4ee39ae4643a7c1c16f8f569b55109af713)
