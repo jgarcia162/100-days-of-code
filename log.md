@@ -147,3 +147,13 @@
 **Next Day's Goal(s)** Work on contacts section of Settings Fragment. Implement a long press to delete and "delete all" functionality
 
 **Link to work:** [Realm database implemented](https://github.com/jgarcia162/Updated/commit/f417e4ee39ae4643a7c1c16f8f569b55109af713)
+
+### Day 14: March 3, 2017 
+
+**Today's Goal:**  Work on contacts section of Settings Fragment. Implement a long press to delete and "delete all" functionality
+
+**Today's Progress** Did not get to contacts section. Begun implementation of a custom MultichoiceListener for RecyclerView. Functionality almost complete. Running into a defaultClickListener error where holder is not changing position. On click delivers the same position for every viewholder.  
+
+**Next Day's Goal(s)** Finish implementing Multichoice functionality for deletion implementation. Fix on click bug.
+
+**Link to work:** [Begun Multichoice Functionality](https://github.com/jgarcia162/Updated/commit/2a927f09e1e84eb7f29b19e1114abfdce7f445f9)
