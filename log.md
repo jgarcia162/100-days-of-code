@@ -156,4 +156,16 @@
 
 **Next Day's Goal(s)** Finish implementing Multichoice functionality for deletion implementation. Fix on click bug.
 
-**Link to work:** [Begun Multichoice Functionality](https://github.com/jgarcia162/Updated/commit/2a927f09e1e84eb7f29b19e1114abfdce7f445f9)
+**Link to work:** [Begun Multichoice Functionality](https://github.com/jgarcia162/Updated/commit/2a927f09e1e84eb7f29b19e1114abfdce7f445f9)<br>
+[MultichoiceRecyclerView Library](https://github.com/dvdciri/MultiChoiceRecyclerView)
+
+### Day 15: March 5, 2017 
+
+**Today's Goal:**  Finish implementing Multichoice functionality for deletion implementation. Fix on click bug.
+
+**Today's Progress** Decided to put off the Multichoice functionality for the next day, instead I implemented an alert dialog box that will show whenever the user has no network connection and tries to manually refresh. Original idea was to implement OkHttp and use a custom callback to handle the onFailure of a network request to show the dialog but this proved much too complicated without introducing potential memory leaks via static Context references.
+
+**Next Day's Goal(s)** Implement Multichoice functionality
+
+**Link to work:** [AlertDialog implemented](https://github.com/jgarcia162/Updated/commit/03f66b01adcf8b6363d16ad161c575b873cd5284)
+
