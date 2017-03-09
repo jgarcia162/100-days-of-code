@@ -187,7 +187,7 @@
 
 **Next Day's Goal(s)** Finish RetroPie build
 
-**Link to work:** [Tutorial](https://github.com/retropie/retropie-setup/wiki/First-Installation)
+**Resources:** [Tutorial](https://github.com/retropie/retropie-setup/wiki/First-Installation)
 
 
 
