@@ -169,3 +169,25 @@
 
 **Link to work:** [AlertDialog implemented](https://github.com/jgarcia162/Updated/commit/03f66b01adcf8b6363d16ad161c575b873cd5284)
 
+### Day 16: March 7, 2017 
+
+**Today's Goal:**  Implement Multichoice functionality
+
+**Today's Progress** After fixing minor UI bugs I began to tackle this Multichoice functionality. Made some progress, now just need to implement buttons for multi-editing.
+
+**Next Day's Goal(s)** Implement Multichoice functionality multiediting
+
+**Link to work:** [Editing Multichoice Toolbar](https://github.com/jgarcia162/Updated/commit/1730b9a371c6dc431be0b14c4edee4c416adabb5)
+
+### Day 17: March 9, 2017 
+
+**Today's Goal:**  Implement Multichoice functionality multiediting
+
+**Today's Progress** I just got my hands on a Raspberry Pi 2 and in the excitement I put off working on my app to get a RetroPie up and running because I miss my childhood video game binges. My first time working with hardware so the learning curve is there but online tutorials are very helpful. Still working on this but might not finish today. 
+
+**Next Day's Goal(s)** Finish RetroPie build
+
+**Link to work:** [Tutorial](https://github.com/retropie/retropie-setup/wiki/First-Installation)
+
+
+
