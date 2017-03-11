@@ -189,5 +189,14 @@
 
 **Resources:** [Tutorial](https://github.com/retropie/retropie-setup/wiki/First-Installation)
 
+### Day 18: March 10, 2017 
 
+**Today's Goal:**  Finish RetroPie build
+
+**Today's Progress** Retropie build done. Installed Playstation, SNES, Dreamcast, GBA, and MAME emulators. Added animation to custom tab browser. Fixed SSL exception thrown by HTTP Connection by implementing default "http" scheme for URL inputs. I found the logic for update refreshing is not working as intended. 
+
+**Next Day's Goal(s)** Fix logic for checking updates. Continue work on Multichoice toolbar.
+
+**Resources:** [RetroPie Photo](https://pbs.twimg.com/media/C6iWrt9VoAAryNS.jpg)<br>
+[Added animation to custom tab](https://github.com/jgarcia162/Updated/commit/900f2945029985afedb4ac97007a38ff3e5d432a)
 
