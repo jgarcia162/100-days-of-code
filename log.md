@@ -200,3 +200,14 @@
 **Resources:** [RetroPie Photo](https://pbs.twimg.com/media/C6iWrt9VoAAryNS.jpg)<br>
 [Added animation to custom tab](https://github.com/jgarcia162/Updated/commit/900f2945029985afedb4ac97007a38ff3e5d432a)
 
+### Day 19: March 11, 2017 
+
+**Today's Goal:**  Fix logic for checking updates. Continue work on Multichoice toolbar
+
+**Today's Progress** Got side-tracked and decided to figure out how a swipe left and right feature could be implemented on a CardView. Found a sample project online and scraped off the excess fat. Managed to create a simple implementation that, in theory, could be attached to any View object.
+
+**Next Day's Goal(s)** Fix logic for checking updates. Continue work on Multichoice toolbar.
+
+**Resources:** [My Implementation](https://github.com/jgarcia162/SwipePractice)<br>
+[Original Sample Project SwipeDeck2](https://github.com/aaronbond/SwipeDeck2)
+
