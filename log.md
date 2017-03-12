@@ -208,6 +208,6 @@
 
 **Next Day's Goal(s)** Fix logic for checking updates. Continue work on Multichoice toolbar.
 
-**Link ** [My Implementation](https://github.com/jgarcia162/SwipePractice)<br>
-**Resources ** [Original Sample Project SwipeDeck2](https://github.com/aaronbond/SwipeDeck2)
+**Link** [My Implementation](https://github.com/jgarcia162/SwipePractice)<br>
+**Resources** [Original Sample Project SwipeDeck2](https://github.com/aaronbond/SwipeDeck2)
 
