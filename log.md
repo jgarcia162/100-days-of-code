@@ -211,3 +211,14 @@
 **Link** [My Implementation](https://github.com/jgarcia162/SwipePractice)<br>
 **Resources** [Original Sample Project SwipeDeck2](https://github.com/aaronbond/SwipeDeck2)
 
+### Day 20: March 14, 2017 
+
+**Today's Goal:**  Fix logic for checking updates. Continue work on Multichoice toolbar
+
+**Today's Progress** Fixed update checker logic. No more duplicate notifications. Removed IG contact button and started implementing Twitter integration using Twitter4J library. Running into a callback issue. 
+
+**Next Day's Goal(s)** Finish Twitter integration
+
+**Link** [Started Twitter integration](https://github.com/jgarcia162/Updated/commit/0853145bae2f2f24ab4343a1186412783649a6c1)<br>
+
+**Resources** [Twitter4J Library](http://twitter4j.org/en/index.html)
