@@ -233,4 +233,4 @@
 
 **Next Day's Goal(s)** Continue work on multichoice toolbar
 
-**Link** [Started Twitter integration](https://github.com/jgarcia162/Updated/commit/967fbd0609ef4b45c7980294ddda436433b85b84)
+**Link** [Finished Twitter integration](https://github.com/jgarcia162/Updated/commit/967fbd0609ef4b45c7980294ddda436433b85b84)
