@@ -223,7 +223,7 @@
 
 **Resources** [Twitter4J Library](http://twitter4j.org/en/index.html)
 
-### Day 1: March 21, 2017 
+### Day 0: March 21, 2017 
 
 **Note:** Starting from day one after taking a week mental break
 
