@@ -222,3 +222,15 @@
 **Link** [Started Twitter integration](https://github.com/jgarcia162/Updated/commit/0853145bae2f2f24ab4343a1186412783649a6c1)<br>
 
 **Resources** [Twitter4J Library](http://twitter4j.org/en/index.html)
+
+### Day 1: March 21, 2017 
+
+**Note:** Starting from day one after taking a week mental break
+
+**Today's Goal:**  Finish Twitter DM integration
+
+**Today's Progress** Twitter DM integrated. Users can send me a direct message on twitter as a form of contact.  
+
+**Next Day's Goal(s)** Continue work on multichoice toolbar
+
+**Link** [Started Twitter integration](https://github.com/jgarcia162/Updated/commit/967fbd0609ef4b45c7980294ddda436433b85b84)
