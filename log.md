@@ -225,12 +225,12 @@
 
 ### Day 0: March 21, 2017 
 
-**Note:** Starting from day one after taking a week mental break
+**Note:** Resetting to day 0 because I missed more than two days 
 
 **Today's Goal:**  Finish Twitter DM integration
 
-**Today's Progress** Twitter DM integrated. Users can send me a direct message on twitter as a form of contact.  
+**Today's Progress** Twitter DM integrated. Users can send me a direct message on twitter as a form of contact. Intents for github and email also added.   
 
-**Next Day's Goal(s)** Continue work on multichoice toolbar
+**Next Day's Goal(s)** Replace intents with in-app message sending via dialog box.
 
-**Link** [Finished Twitter integration](https://github.com/jgarcia162/Updated/commit/967fbd0609ef4b45c7980294ddda436433b85b84)
+**Link** [Finished Twitter integration and contact intents](https://github.com/jgarcia162/Updated/commit/9682e9eae560c8cdc1e920a38f02580d53e76c8b)
