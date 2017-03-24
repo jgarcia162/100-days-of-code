@@ -234,3 +234,13 @@
 **Next Day's Goal(s)** Replace intents with in-app message sending via dialog box.
 
 **Link** [Finished Twitter integration and contact intents](https://github.com/jgarcia162/Updated/commit/9682e9eae560c8cdc1e920a38f02580d53e76c8b)
+
+### Day 1: March 23, 2017 
+
+**Today's Goal:**  Replace intents with in-app message sending via dialog box.
+
+**Today's Progress** I decided to ergo the dialog box message sending functionality. This, while a somewhat convenient feature, proves to be uncessesary. I began implementing a button layout to give users the choice of selecting all items in the list and deleting/untracking multiple items at once. Finished implementing the select all and deselect all buttons. Created a ButtonListener interface to allow communication between the adapter and main activity. 
+
+**Next Day's Goal(s)** Implement delete and untrack buttons.
+
+**Link** [Added button layout and implemented select/deselect](https://github.com/jgarcia162/Updated/commit/f9cdd624056d6b360ee924cf031e55d24fde3707)
