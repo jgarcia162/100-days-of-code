@@ -244,3 +244,13 @@
 **Next Day's Goal(s)** Implement delete and untrack buttons.
 
 **Link** [Added button layout and implemented select/deselect](https://github.com/jgarcia162/Updated/commit/f9cdd624056d6b360ee924cf031e55d24fde3707)
+
+### Day 2: March 25, 2017 
+
+**Today's Goal:**  Implement delete and untrack buttons.
+
+**Today's Progress** Delete and Untrack buttons complete. Decoupled UpdatedCallback from UpdatedBroadcastReceiver. Found one bug in multichoice feature. After adding a new page, long-click to select feature doesn't work, app must be restarted for feature to apply to newest items. 
+
+**Next Day's Goal(s)** Fix multichoice bug. Begin redesign of UI. 
+
+**Link** [Completed delete and untrack buttons, decoupled UpdatedCallback](https://github.com/jgarcia162/Updated/commit/ce836450ef6106e996bd3dbdb4750352768c9e4c)
