@@ -254,3 +254,13 @@
 **Next Day's Goal(s)** Fix multichoice bug. Begin redesign of UI. 
 
 **Link** [Completed delete and untrack buttons, decoupled UpdatedCallback](https://github.com/jgarcia162/Updated/commit/ce836450ef6106e996bd3dbdb4750352768c9e4c)
+
+### Day 3: March 26, 2017 
+
+**Today's Goal:**  Fix multichoice bug. Begin redesign of UI
+
+**Today's Progress** Finished core functionality, merged to master branch. Started implementing material design UI. 
+
+**Next Day's Goal(s)** Continue material design implementation 
+
+**Link** [Core functionality complete](https://github.com/jgarcia162/Updated/commit/b0b11acc79d8b105ad8bc25b3173e729f12eea2c)
