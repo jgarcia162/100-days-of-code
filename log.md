@@ -264,3 +264,13 @@
 **Next Day's Goal(s)** Continue material design implementation 
 
 **Link** [Core functionality complete](https://github.com/jgarcia162/Updated/commit/b0b11acc79d8b105ad8bc25b3173e729f12eea2c)
+
+### Day 4: March 27, 2017 
+
+**Today's Goal:** Continue material design implementation 
+
+**Today's Progress** Started implementing material design UI. Changed app colors, status text color, added elevation to cards and buttons, removed logout button.  
+
+**Next Day's Goal(s)** Continue material design implementation. Add update frequency customization. Change PageDetailFragment buttons 
+
+**Link** [Changed colors and buttons](https://github.com/jgarcia162/Updated/commit/605f87a60b043f9d696ad5bf4b755b55aca895c4)
