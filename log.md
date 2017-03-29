@@ -274,3 +274,13 @@
 **Next Day's Goal(s)** Continue material design implementation. Add update frequency customization. Change PageDetailFragment buttons 
 
 **Link** [Changed colors and buttons](https://github.com/jgarcia162/Updated/commit/605f87a60b043f9d696ad5bf4b755b55aca895c4)
+
+### Day 5: March 28, 2017 
+
+**Today's Goal:** Continue material design implementation. Add update frequency customization. Change PageDetailFragment buttons 
+
+**Today's Progress** Completed redesign of app. Implemented more customizable frequency setting, changed color palette, added animations, changed buttons, rearranged layouts, and added custom font using Calligraphy library.
+
+**Next Day's Goal(s)** Create an intro tutorial slideshow, possibly using [AppIntro library](https://github.com/apl-devs/AppIntro)
+
+**Link** [Redesigned layouts, colors, buttons, font](https://github.com/jgarcia162/Updated/commit/98a35b89ed051ebe076548d1d2317488ccaa3148)
