@@ -284,3 +284,13 @@
 **Next Day's Goal(s)** Create an intro tutorial slideshow, possibly using [AppIntro library](https://github.com/apl-devs/AppIntro)
 
 **Link** [Redesigned layouts, colors, buttons, font](https://github.com/jgarcia162/Updated/commit/98a35b89ed051ebe076548d1d2317488ccaa3148)
+
+### Day 6: March 30, 2017 
+
+**Today's Goal:** Create an intro tutorial slideshow, possibly using [AppIntro library](https://github.com/apl-devs/AppIntro)
+
+**Today's Progress** Made layout edits and added background images. Fixed network error bug, dialog now shows up when there is no network instead of a fatal exception.   
+
+**Next Day's Goal(s)** Create an intro tutorial slideshow using [AppIntro library](https://github.com/apl-devs/AppIntro)
+
+**Link** [Layout edits and background image addition](https://github.com/jgarcia162/Updated/commit/232a543bdb5deacdf70911a1e29e2a031a1c7a70)
