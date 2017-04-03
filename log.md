@@ -294,3 +294,13 @@
 **Next Day's Goal(s)** Create an intro tutorial slideshow using [AppIntro library](https://github.com/apl-devs/AppIntro)
 
 **Link** [Layout edits and background image addition](https://github.com/jgarcia162/Updated/commit/232a543bdb5deacdf70911a1e29e2a031a1c7a70)
+
+### Day 7: April 2, 2017 
+
+**Today's Goal:** Create an intro tutorial slideshow using [AppIntro library](https://github.com/apl-devs/AppIntro)
+
+**Today's Progress** Began implementing Firebase login and Google auth. Added LoginActivity and layout. Added animations for Log in buttons.   
+
+**Next Day's Goal(s)** Complete Firebase auth login
+
+**Link** [Implementing Firebase Login](https://github.com/jgarcia162/Updated/commit/04bcd1c5bee51638d8c8ef424e70a848c886afc7)
