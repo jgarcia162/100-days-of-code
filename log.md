@@ -304,3 +304,14 @@
 **Next Day's Goal(s)** Complete Firebase auth login
 
 **Link** [Implementing Firebase Login](https://github.com/jgarcia162/Updated/commit/04bcd1c5bee51638d8c8ef424e70a848c886afc7)
+
+### Day 8: April 4, 2017 
+
+**Today's Goal:** Complete Firebase auth login
+
+**Today's Progress** Added firebase authentication login.  
+
+**Next Day's Goal(s)** Complete Firebase storage logic. 
+
+**Link** [Implemented Firebase Authentication](https://github.com/jgarcia162/Updated/commit/d5241f304d54e7cdce658617b9ac7dc41cf0259e)
+
