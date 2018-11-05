@@ -1,3 +1,17 @@
+### Day 3: November 4, 2018
+**Today's Goal:** Implement MVP design pattern
+
+**Today's Progress:** Set up the skeleton for MVP design pattern. Thought of new functionalities to track progress and sort books. 
+
+**Links to work:** 
+* [Added BookDetails components](https://github.com/jgarcia162/Bookworm/commit/56a7e7aefdd5ec7c8a8452180cc0e46c7dbd457b)
+* [Added Library components](https://github.com/jgarcia162/Bookworm/commit/ce287f37c9ad35451caeacb4e6384a0d47ba09dd)
+* [Added Feed components](https://github.com/jgarcia162/Bookworm/commit/c013b6afd758f7f0522f680a1d7fa80f78199246)
+
+**Thoughts:** It's important to flesh out the features I want to implement before starting to structure the app. While I'm figuring out the architecture I'm thinking of new ideas and this affects the way I approach the architecture. I learned to establish a list of the most fundamental features before building the skeleton. 
+
+**Next Day's Goal(s):** Finish MVP set-up and add new UI elements for added features.
+
 ### Day 2: November 3, 2018
 **Today's Goal:** Update UI layouts
 
