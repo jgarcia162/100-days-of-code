@@ -1,3 +1,14 @@
+### Day 4: November 5, 2018
+**Today's Goal:** Finish MVP set-up and add new UI elements for added features.
+
+**Today's Progress:** Made some changes to UI, added layout for FeedFragment and SearchFragment. Added BottomNavigationView for LibraryFragment. 
+
+**Links to work:** 
+* [Added bottom navigation](https://github.com/jgarcia162/Bookworm/commit/8aeb04fb01e4a86b343ddbad03d422c6604f56c9)
+* [Added new layouts](https://github.com/jgarcia162/Bookworm/commit/d1b7eced37c034a4e9ccfcd84f54a91665637d9d)
+
+**Next Day's Goal(s):** Finish new UI elements for added features and continue MVP set-up.
+
 ### Day 3: November 4, 2018
 **Today's Goal:** Implement MVP design pattern
 
