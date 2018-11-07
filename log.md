@@ -1,3 +1,16 @@
+### Day 5: November 6, 2018
+**Today's Goal:** Finish new UI elements for added features and continue MVP set-up.
+
+**Today's Progress:** Made more UI changes, added a progress bar to book list item layout. Added colors
+
+**Links to work:** 
+* [Some UI changes](https://github.com/jgarcia162/Bookworm/commit/c8d79c76df573767df670629ca1e1fdfba2a8d0c)
+
+**Resources Used:** 
+* [Material Design Chips Guideline](https://material.io/design/components/chips.html)
+
+**Next Day's Goal(s):** Continue UI edits.
+
 ### Day 4: November 5, 2018
 **Today's Goal:** Finish MVP set-up and add new UI elements for added features.
 
