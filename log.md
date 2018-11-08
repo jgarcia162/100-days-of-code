@@ -1,3 +1,16 @@
+### Day 6: November 7, 2018
+**Today's Goal:** Finish new UI elements for added features and continue MVP set-up.
+
+**Today's Progress:** Made more UI changes, added a progress bar to book list item layout. Added colors
+
+**Links to work:** 
+* [Some UI changes](https://github.com/jgarcia162/Bookworm/commit/37d336646f9a2f91d0e631061620e38356757408)
+
+**Resources Used:** 
+* [UI Inspiration](http://collectui.com/designs)
+
+**Next Day's Goal(s):** Create BookDetails layout
+
 ### Day 5: November 6, 2018
 **Today's Goal:** Finish new UI elements for added features and continue MVP set-up.
 
