@@ -1,3 +1,13 @@
+### Day 7: November 9, 2018
+**Today's Goal:** Create BookDetails layout
+
+**Today's Progress:** Created layout for Book Details
+
+**Links to work:** 
+* [Book Details layout](https://github.com/jgarcia162/Bookworm/commit/35c0b1a4e992be8a33ba2a1ddb1bbba5c7686e6c)
+
+**Next Day's Goal(s):** Create API client wrapper class and Retrofit API services
+
 ### Day 6: November 7, 2018
 **Today's Goal:** Finish new UI elements for added features and continue MVP set-up.
 
