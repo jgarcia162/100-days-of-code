@@ -1,3 +1,13 @@
+### Day 8: November 12, 2018
+**Today's Goal:** Create API client wrapper class and Retrofit API services
+
+**Today's Progress:** Created ApiClient wrapper class, BooksApi service interface, models for Google Books API responses. Added API key as BuildConfig gradle property.
+
+**Links to work:** 
+* [ApiClient wrapper class and Books API models](https://github.com/jgarcia162/Bookworm/commit/418e828309b9d29fc4946760ef16534f246f243b)
+
+**Next Day's Goal(s):** Write tests for BooksApi 
+
 ### Day 7: November 9, 2018
 **Today's Goal:** Create BookDetails layout
 
