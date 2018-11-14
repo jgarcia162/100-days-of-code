@@ -1,3 +1,13 @@
+### Day 9: November 13, 2018
+**Today's Goal:** Create API client wrapper class and Retrofit API services
+
+**Today's Progress:** Wrote a test for Google Books API. 
+
+**Links to work:** 
+* [Added BooksApi test](https://github.com/jgarcia162/Bookworm/commit/b681194715441989a3e78ae8bbe8892002084de3)
+
+**Next Day's Goal(s):** Continue Google Books Api setup
+
 ### Day 8: November 12, 2018
 **Today's Goal:** Create API client wrapper class and Retrofit API services
 
