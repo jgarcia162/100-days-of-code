@@ -1,3 +1,13 @@
+### Day 10: November 15, 2018
+**Today's Goal:** Continue Google Books Api setup
+
+**Today's Progress:** Added NY Times Books API to get best sellers list
+
+**Links to work:** 
+* [Added NY Times Books API](https://github.com/jgarcia162/Bookworm/commit/48a77a3ffe01de0bde961f888a2fd70665d142e5)
+
+**Next Day's Goal(s):** Write test for NY Times API, implement logic for FeedFragment
+
 ### Day 9: November 13, 2018
 **Today's Goal:** Create API client wrapper class and Retrofit API services
 
