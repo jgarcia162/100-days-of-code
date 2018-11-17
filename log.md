@@ -1,3 +1,14 @@
+### Day 11: November 16, 2018
+**Today's Goal:** Write test for NY Times API, implement logic for FeedFragment
+
+**Today's Progress:** Edited NY Times API models, API tests, removed gradle.properties from tests branch
+
+**Links to work:** 
+* [Edited API tests and NY Times API models](https://github.com/jgarcia162/Bookworm/commit/99d9c8935764f6c2c1490d96f8babc6c86717b61)
+* [Added gradle.properties to gitignore](https://github.com/jgarcia162/Bookworm/commit/86fa7da4032b0b9315d4e06748310e005c287c86)
+
+**Next Day's Goal(s):** Implement logic for FeedFragment
+
 ### Day 10: November 15, 2018
 **Today's Goal:** Continue Google Books Api setup
 
