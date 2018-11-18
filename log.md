@@ -1,3 +1,15 @@
+### Day 12: November 17, 2018
+**Today's Goal:** Implement logic for FeedFragment
+
+**Today's Progress:** Added a README 
+
+**Links to work:** 
+* [Added README](https://github.com/jgarcia162/Bookworm/commit/99d9c8935764f6c2c1490d96f8babc6c86717b61)
+* [Set up Dagger 2 architecture](https://github.com/jgarcia162/Bookworm/commit/aa5e3b24e5509437087ee99088882a7400a72357)
+* [Creating generic adapter](https://github.com/jgarcia162/Bookworm/commit/5152ea54b442889140e2e95c1ac5672fdb015e9f)
+
+**Next Day's Goal(s):** Complete GenericAdapter and test
+
 ### Day 11: November 16, 2018
 **Today's Goal:** Write test for NY Times API, implement logic for FeedFragment
 
