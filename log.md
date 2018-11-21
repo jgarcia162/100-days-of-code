@@ -1,3 +1,13 @@
+### Day 13: November 20, 2018
+**Today's Goal:** Complete GenericAdapter and test
+
+**Today's Progress:** Completed GenericAdapter, worked on FeedFragment, wrote new dagger provides methods for Presenters, wrote test for FeedFragment but am running into an error.
+
+**Links to work:** 
+* [Working on tests, and other edits](https://github.com/jgarcia162/Bookworm/commit/81b451655498b83433c65c22a3d366d4fda540ee)
+
+**Next Day's Goal(s):** Finish test for FeedFragment.
+
 ### Day 12: November 17, 2018
 **Today's Goal:** Implement logic for FeedFragment
 
