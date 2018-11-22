@@ -1,3 +1,13 @@
+### Day 14: November 21, 2018
+**Today's Goal:** Finish test for FeedFragment
+
+**Today's Progress:** Wrote tests for FeedFragment. Made edits to FeedFragment functions. Added ChipGroup to FeedFragment.  
+
+**Links to work:** 
+* [Tests, ChipGroup, Functions](https://github.com/jgarcia162/Bookworm/commit/8806febeffd344830d4433ab10a567dfd41becf0)
+
+**Next Day's Goal(s):** Finish tests for FeedFragment, set up FeedFragment.
+
 ### Day 13: November 20, 2018
 **Today's Goal:** Complete GenericAdapter and test
 
