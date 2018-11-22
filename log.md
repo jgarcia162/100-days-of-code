@@ -1,3 +1,15 @@
+### Day 15: November 22, 2018
+**Today's Goal:** Finish tests for FeedFragment, set up FeedFragment.
+
+**Today's Progress:** Worked on more tests for FeedFragment. Wrote a function to add new chips dynamically. Ran into a bug related to this Chips function. 
+
+**Links to work:** 
+* [ChipGroup function, best sellers list function](https://github.com/jgarcia162/Bookworm/commit/eca1818975fe6eb4d8a8a44a7939806bcb26bdd1)
+* [NYTimesBook class, edited tests, and feedfragment](https://github.com/jgarcia162/Bookworm/commit/0675ae41b0e4d3982249b7b83346ae428310dc80)
+* [WIP Chips test](https://github.com/jgarcia162/Bookworm/commit/9150e2d9023b00a75e425ee7b0f2ec5f941842ea)
+
+**Next Day's Goal(s):** Fix bug in test.
+
 ### Day 14: November 21, 2018
 **Today's Goal:** Finish test for FeedFragment
 
