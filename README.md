@@ -18,5 +18,7 @@
 9. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
 ## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+* This challenge was forked from [100-days-of-code](https://github.com/kallaway/100-days-of-code)
+* The rules state tutorials and online courses do not count towards the daily requirements but I believe any form of coding is valuable therefore some of my submissions may include tutorials, online courses, or other sources. 
+* I've also given myself a 2 day grace period versus a one day period. 
