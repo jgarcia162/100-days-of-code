@@ -1,3 +1,13 @@
+### Day 16: November 26, 2018
+**Today's Goal:** Fix Chips bug in FeedPresenter test.
+
+**Today's Progress:** BestSellers overview data loads on FeedFragment start. Edited TimesBook class to include abstract variables. This is the base class for all the book models in NY Times API. 
+
+**Links to work:** 
+* [Overview data loads onStart](https://github.com/jgarcia162/Bookworm/commit/443ded62e6a6bd0b25626e93d9cb519be075d8e7)
+
+**Next Day's Goal(s):** Work on ChipsGroup scroll view. 
+
 ### Day 15: November 22, 2018
 **Today's Goal:** Finish tests for FeedFragment, set up FeedFragment.
 
@@ -8,7 +18,7 @@
 * [NYTimesBook class, edited tests, and feedfragment](https://github.com/jgarcia162/Bookworm/commit/0675ae41b0e4d3982249b7b83346ae428310dc80)
 * [WIP Chips test](https://github.com/jgarcia162/Bookworm/commit/9150e2d9023b00a75e425ee7b0f2ec5f941842ea)
 
-**Next Day's Goal(s):** Fix bug in test.
+**Next Day's Goal(s):** Fix Chips bug in FeedPresenter test.
 
 ### Day 14: November 21, 2018
 **Today's Goal:** Finish test for FeedFragment
