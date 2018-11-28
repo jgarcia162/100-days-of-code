@@ -1,3 +1,16 @@
+### Day 17: November 27, 2018
+**Today's Goal:** Fix Chips bug in FeedPresenter test.
+
+**Today's Progress:** Best Sellers Chips are added to ChipGroup when FeedFragment is started. Clicking a Chip will load list data. 
+
+**Links to work:** 
+* [Best Seller Chips added to ChipGroup](https://github.com/jgarcia162/Bookworm/commit/1da9893dc6db24763598c5ab15fa73f4a1ed827b)
+* [Fixed Tests](https://github.com/jgarcia162/Bookworm/commit/2348c977df7b24220abc4cc30d86f76e83618d9b)
+* [Migrated to Androidx dependencies](https://github.com/jgarcia162/Bookworm/commit/006b639fc3eddb63c825852489b1be9c00f4191a)
+* [Chip categories load on click](https://github.com/jgarcia162/Bookworm/commit/f5deec963ce1395dc3dee1d0f8baca160e62f626)
+
+**Next Day's Goal(s):** Create fragment for chip categories
+
 ### Day 16: November 26, 2018
 **Today's Goal:** Fix Chips bug in FeedPresenter test.
 
