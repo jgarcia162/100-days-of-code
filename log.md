@@ -1,3 +1,25 @@
+### Day 19: November 30, 2018
+**Today's Goal:** Fix Chips bug in FeedPresenter test.
+
+**Today's Progress:** Chips dialog now shows up however app crashes due to uninitialized presenter. Need to add a callback to call the parent fragment's presenter and load the selected lists. 
+
+**Thoughts:** ConstraintLayout doesn't work with the dialog fragment. Is this a bug or do the constraints need to be added to the layout itself due to the structure of a DialogFragment?
+
+**Links to work:** 
+* [WIP fixing ChipsDialogFragment bug](https://github.com/jgarcia162/Bookworm/commit/d624fb1a86286e3d7873def8b0ea2bdbaea44cc2)
+
+**Next Day's Goal(s):** Fix ChipsDialogFragment bug.
+
+### Day 18: November 28, 2018
+**Today's Goal:** Fix Chips bug in FeedPresenter test.
+
+**Today's Progress:** Created a custom DialogFragment to display all the best-sellers list names as Chips for filtering best-sellers. Added a clickable filter icon. The custom DialogFragment is receiving the data and adding Chips to the ChipGroup, confirmed this through log messages. However the fragment layout is not displayed. 
+
+**Links to work:** 
+* [WIP add ChipsDialogFragment](https://github.com/jgarcia162/Bookworm/commit/2851da39b8f7433bb208aebe7471853f80c69ef6)
+
+**Next Day's Goal(s):** Fix ChipsDialogFragment bug.
+
 ### Day 17: November 27, 2018
 **Today's Goal:** Fix Chips bug in FeedPresenter test.
 
