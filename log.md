@@ -1,14 +1,14 @@
 ### Day 19: November 30, 2018
 **Today's Goal:** Fix Chips bug in FeedPresenter test.
 
-**Today's Progress:** Chips dialog now shows up however app crashes due to uninitialized presenter. Need to add a callback to call the parent fragment's presenter and load the selected lists. 
+**Today's Progress:** Chips dialog now shows and selected chip loads corresponding list then dismisses after loading.
 
-**Thoughts:** ConstraintLayout doesn't work with the dialog fragment. Is this a bug or do the constraints need to be added to the layout itself due to the structure of a DialogFragment?
+**Thoughts:** When inflating the layout for a DialogFragment, if using ConstraintLayout, the constraints must be added to the ConstraintLayout itself. 
 
 **Links to work:** 
-* [WIP fixing ChipsDialogFragment bug](https://github.com/jgarcia162/Bookworm/commit/d624fb1a86286e3d7873def8b0ea2bdbaea44cc2)
+* [ChipsDialogFragment loads selected list](https://github.com/jgarcia162/Bookworm/commit/a96839dd7bae188a47ef7c7b5062eb21be6338c8)
 
-**Next Day's Goal(s):** Fix ChipsDialogFragment bug.
+**Next Day's Goal(s):** Work on "Current reading RV"
 
 ### Day 18: November 28, 2018
 **Today's Goal:** Fix Chips bug in FeedPresenter test.
