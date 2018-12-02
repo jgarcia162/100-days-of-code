@@ -1,3 +1,13 @@
+### Day 20: December 1, 2018
+**Today's Goal:** Work on "Current reading RV"
+
+**Today's Progress:** Added "Done" and "Cancel" buttons to ChipsDialogFragment. Created function to load multiple lists based on Chips selected in the dialog fragment. Using RxJava to load each list then combine results(WIP). 
+
+**Links to work:** 
+* [WIP multilist Rx stream](https://github.com/jgarcia162/Bookworm/commit/6196c713eeccb6dba77f25ad97e2d77085c85b7b)
+
+**Next Day's Goal(s):** Finish multiple list Rx stream
+
 ### Day 19: November 30, 2018
 **Today's Goal:** Fix Chips bug in FeedPresenter test.
 
