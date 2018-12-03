@@ -1,3 +1,13 @@
+### Day 21: December 2, 2018
+**Today's Goal:** Finish multiple list Rx stream"
+
+**Today's Progress:** User can now filter best-sellers by selecting chips. Working on persisting the selected chips. 
+
+**Links to work:** 
+* [List filter working](https://github.com/jgarcia162/Bookworm/commit/3f5128c479b743e84cb73aa92caa2d5f6f223dac)
+
+**Next Day's Goal(s):** Persist filtered chips. 
+
 ### Day 20: December 1, 2018
 **Today's Goal:** Work on "Current reading RV"
 
