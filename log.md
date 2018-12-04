@@ -1,3 +1,13 @@
+### Day 22: December 3, 2018
+**Today's Goal:** Finish multiple list Rx stream"
+
+**Today's Progress:** Created a PreferencesHelper to persist Filter lists. 
+
+**Links to work:** 
+* [Created prefs helper](https://github.com/jgarcia162/Bookworm/commit/3b272bc82f15c99b401e46f892d3b016287d8b0c)
+
+**Next Day's Goal(s):** Load persisted filters from preferences and display when ChipsDialogFragment is inflated. 
+
 ### Day 21: December 2, 2018
 **Today's Goal:** Finish multiple list Rx stream"
 
