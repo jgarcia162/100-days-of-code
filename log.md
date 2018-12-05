@@ -1,5 +1,15 @@
+### Day 23: December 4, 2018
+**Today's Goal:** Load persisted filters from preferences and display when ChipsDialogFragment is inflated. 
+
+**Today's Progress:** Selected filter chips are saved to SharedPreferences via a SharedPreferencesHelper. When the ChipsDialogFragment is shown, previously selected filters are loaded. Changed ChipGroup.addChips extension function to accept a List of Chips as parameter. 
+
+**Links to work:** 
+* [Persisting selected filters](https://github.com/jgarcia162/Bookworm/commit/4fcdbae8e0a4118bf02b074bb3aacf96a71298c5)
+
+**Next Day's Goal(s):** Add clear all filters button for ChipsDialogFragment. 
+
 ### Day 22: December 3, 2018
-**Today's Goal:** Finish multiple list Rx stream"
+**Today's Goal:** Persist filtered chips. 
 
 **Today's Progress:** Created a PreferencesHelper to persist Filter lists. 
 
