@@ -1,3 +1,13 @@
+### Day 24: December 7, 2018
+**Today's Goal:** Add clear all filters button for ChipsDialogFragment. 
+
+**Today's Progress:** added clear button for filter chips
+
+**Links to work:** 
+* [WIP adding clear button](https://github.com/jgarcia162/Bookworm/commit/a4bf03544edb4a1ae93e892e84a23b47c7042c97)
+
+**Next Day's Goal(s):** Finish clear button
+
 ### Day 23: December 4, 2018
 **Today's Goal:** Load persisted filters from preferences and display when ChipsDialogFragment is inflated. 
 
