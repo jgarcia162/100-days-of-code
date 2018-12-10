@@ -1,3 +1,14 @@
+### Day 25: December 9, 2018
+**Today's Goal:** Finish clear button
+
+**Today's Progress:** Completed clear button functionality. Edited GenericAdapter.kt. No longer abstract. Implemented BookRepository.kt. Removed BookViewModel.
+
+**Links to work:** 
+* [Edited GenericAdapter.kt](https://github.com/jgarcia162/Bookworm/commit/d4d815087ca62b78077476d46a3cb44ef00546a3)
+* [Implemented BookRepository.kt](https://github.com/jgarcia162/Bookworm/commit/f7b5e88124e383e3246296b0661ed5fa0d0af73e)
+
+**Next Day's Goal(s):** Implement Add Book fragment/functionality
+
 ### Day 24: December 7, 2018
 **Today's Goal:** Add clear all filters button for ChipsDialogFragment. 
 
