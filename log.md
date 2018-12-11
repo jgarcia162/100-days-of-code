@@ -1,3 +1,14 @@
+### Day 26: December 10, 2018
+**Today's Goal:** Implement Add Book fragment/functionality
+
+**Today's Progress:** Removed uneccessary inject and provides methods from ApplicationComponent and added an ApiModule. 
+
+**Links to work:** 
+* [Edited Dagger components](https://github.com/jgarcia162/Bookworm/commit/9917be4ec26268c69fcbb035b66fd4c18a29968f)
+* [WIP implementing AddBookFragment](https://github.com/jgarcia162/Bookworm/commit/1a95eb86dc0044f6371513411fee3acf7e572078)
+
+**Next Day's Goal(s):** Complete AddBookFragment
+
 ### Day 25: December 9, 2018
 **Today's Goal:** Finish clear button
 
