@@ -1,3 +1,14 @@
+### Day 27: December 12, 2018
+**Today's Goal:** Implement Add Book fragment/functionality
+
+**Today's Progress:** ChipsDialogFragment and AddBookDialogFragment root layouts changed to LinearLayouts.
+
+**Links to work:** 
+* [Changed ChipsDialogFragment layout](https://github.com/jgarcia162/Bookworm/commit/4152e523c9ce8e52d601bb07066c5414ad2b4277)
+* [WIP Changed AddBookDialogFragment layout](https://github.com/jgarcia162/Bookworm/commit/fe776c7ae329896f504f56ccd311015f3ff996fe)
+
+**Next Day's Goal(s):** Complete AddBookFragment layout.
+
 ### Day 26: December 10, 2018
 **Today's Goal:** Implement Add Book fragment/functionality
 
