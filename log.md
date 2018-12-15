@@ -1,3 +1,13 @@
+### Day 28: December 14, 2018
+**Today's Goal:** Implement Add Book fragment/functionality
+
+**Today's Progress:** Edited layout for adding a book. Working on shared preference for categories.
+
+**Links to work:** 
+* [Editing AddBookDialogFragment layout](https://github.com/jgarcia162/Bookworm/commit/5c960800e83f850e7e2c0c0cbcbd4210f3dd1d04)
+
+**Next Day's Goal(s):** Complete AddBookFragment layout.
+
 ### Day 27: December 12, 2018
 **Today's Goal:** Implement Add Book fragment/functionality
 
