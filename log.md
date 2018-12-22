@@ -1,3 +1,13 @@
+### Day 30: December 21, 2018
+**Today's Goal:** Finish Spinner drop down categories
+
+**Today's Progress:** Small edits to layout. Moved addBook method to presenter
+
+**Links to work:** 
+* [Edited add book layout and fragment](https://github.com/jgarcia162/Bookworm/commit/442d2b350745c741f52e672928113ba7a0ba04e7)
+
+**Next Day's Goal(s):** Finish Spinner for drop down categories
+
 ### Day 29: December 17, 2018
 **Today's Goal:** Complete AddBookFragment layout.
 
