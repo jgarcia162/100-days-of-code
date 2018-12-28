@@ -1,3 +1,13 @@
+### Day 31: December 27, 2018
+**Today's Goal:** Create a sample app to demonstrate how to use BroadcastReceivers
+
+**Today's Progress:** Finished app using ButteKnife and Parceler libraries
+
+**Links to work:** 
+* [BroadcastReceiver Example](https://github.com/jgarcia162/BroadcastReceiverExample/tree/solution_with_libraries)
+
+**Next Day's Goal(s):** Implement solution without any libraries
+
 ### Day 30: December 21, 2018
 **Today's Goal:** Finish Spinner drop down categories
 
